@@ -23,7 +23,6 @@
     "moment": "^2.27.0",
     "next": "9.4.4",
     "nodemon": "^2.0.4",
-    "puppeteer": "^5.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-swipeable-views": "^0.13.9"
